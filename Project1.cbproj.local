@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.h,S:\K1\503\135\Александр\Основы практического программирования\Проект\Unit1.h=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CodeGear RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,S:\K1\503\135\Александр\Основы практического программирования\Проект\Project1.cbproj=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CodeGear RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,=C:\Users\Sasha\Desktop\Programmny_produkt\Программный продукт\Project1.otares</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,S:\K1\503\135\Александр\Основы практического программирования\Проект\Unit1.dfm=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CodeGear RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cpp,S:\K1\503\135\Александр\Основы практического программирования\Проект\Unit1.cpp=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CodeGear RAD Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
